@@ -8,4 +8,8 @@ int main(void) {
  answer= degree*𝜋/180.0;
 printf("The Radian is = %.4lf",answer);
 return 0;
+
 }
+
+/*Change the program from Task 2 to take the input value from the
+user in degrees (instead of a fixed 45.02) and convert to radians.*/
