@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main()
+//this code can be simplified,i did it in my own way (working with different variables for all th steps)
 {
     int n;
     printf("The number of geese at start= ");
@@ -29,3 +30,4 @@ increase the number of geese in his farm.
 Given the number of geese n at the beginning of first year as
 input, calculate how many geese Mr. Eggsy will have after the 1st
 year, 2nd year and 3rd year.*/
+
